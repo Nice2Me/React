@@ -8,5 +8,7 @@
 
 3. [Beginning iOS Development With React Native](https://share.viget.com/sxsw/rn-workshop/index.html)
 
-4. [Others](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
+4. [React Native Tutorial: `Building Apps with JavaScript from raywenderlich`](https://www.raywenderlich.com/126063/react-native-tutorial)
+
+5. [Others](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 
