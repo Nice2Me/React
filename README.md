@@ -10,5 +10,8 @@
 
 4. [React Native Tutorial: `Building Apps with JavaScript from raywenderlich`](https://www.raywenderlich.com/126063/react-native-tutorial)
 
-5. [Others](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
+5. [React-Chinese Documents](http://reactjs.cn/react/docs/getting-started.html)
+
+
+6. [Others](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 
